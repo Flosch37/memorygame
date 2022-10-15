@@ -1,0 +1,33 @@
+.card{
+    height: 100px;
+    width: 100px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: darkslateblue;
+    margin-top: 45px;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    color: darkred;
+    font-size: 30px;
+}
+
+.cardRed{
+    background-color: red;
+}
+
+.cardYellow{
+    background-color: yellow;
+}
+
+.cardBlue{
+    background-color: blue;
+}
+
+.container{
+    
+}
