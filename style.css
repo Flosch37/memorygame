@@ -29,5 +29,18 @@ h2{
 }
 
 .container{
-    
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    grid-template-columns: 100px 100px;
+    gap: 30px;
+    background-color: mediumspringgreen;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+
+strong{
+    display: block;
+    text-align: center
 }
